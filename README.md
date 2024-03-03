@@ -4,7 +4,7 @@
 
 1. Ссылка на сайт: *https://qa-scooter.praktikum-services.ru/*
 2. Автотесты подключены в браузере: *Firefox*
-3. Основа для написания автотестов: *Selenium WebDriver* и *Pytest*
+3. Основа для написания автотестов: *Selenium WebDriver*, *Pytest*
 4. В автотестах используются: паттерн *POM*, фикстуры *@pytest.fixture* и параметризация *@pytest.mark.parametrize*
 5. Отчет о тестировании: *Allure*
 
