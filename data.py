@@ -15,17 +15,28 @@ class Data:
         'Да, обязательно. Всем самокатов! И Москве, и Московской области.'
     ]
 
-    NAME_STATION = [
-        'Локомотив',
-        'Нижегородская'
-    ]
+    order_data_set1 = {
+        'place_order_btn': 'main',
+        'name': 'Евгений',
+        'surname': 'Сазанов',
+        'address': 'г.Нижний Новгород, ул.Новая, д.15, кв.99',
+        'name_station': 'Локомотив',
+        'phone': '89051117890',
+        'date': '21.03.2024',
+        'rental_period': 'трое суток',
+        'scooter_color': 'black',
+        'comment': 'Предварительно позвонить по телефону'
+    }
 
-    RENTAL_PERIOD = [
-        'трое суток',
-        'семеро суток'
-    ]
-
-    SCOOTER_COLOR = [
-        'black',
-        'grey'
-    ]
+    order_data_set2 = {
+        'place_order_btn': 'header',
+        'name': 'максим',
+        'surname': 'крылов',
+        'address': 'МОСКВА ПУШКИНА 21-3',
+        'name_station': 'Нижегородская',
+        'phone': '+79051112233',
+        'date': '27.04.2024',
+        'rental_period': 'семеро суток',
+        'scooter_color': 'grey',
+        'comment': ''
+    }
